@@ -1,0 +1,11 @@
+site_name: DocScanner for iPhone
+site_url: https://docscanner-for-iphone.github.io/
+nav:
+  - Terms and Conditions: terms-conditions.md
+  - Privacy Policy: privacy-policy.md
+theme:
+  name: material
+  palette:
+    primary: black
+  locale: en
+  include_sidebar: false
